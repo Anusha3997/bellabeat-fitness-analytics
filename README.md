@@ -10,29 +10,29 @@ FitBit daily activity dataset (Kaggle)
 R, tidyverse, ggplot2
 
 ## Steps
-• Data cleaning
-• Transformation
-• Exploratory analysis
-• Visualization
-• Insights
+- Data cleaning
+- Transformation
+- Exploratory analysis
+- Visualization
+- Insights
 
 ## Key Insights
-• Users active more on weekdays
-• Sleep correlates with activity
-• Sedentary time high
+- Users active more on weekdays
+- Sleep correlates with activity
+- Sedentary time high
 
 ## Business Recommendations
-• Target weekend challenges
-• Sleep coaching features
-• Personalized reminders
+- Target weekend challenges
+- Sleep coaching features
+- Personalized reminders
 
 ## Kaggle
-[(images)](https://www.kaggle.com/code/anushanagula/bellabeat-case-study)
+https://www.kaggle.com/code/anushanagula/bellabeat-case-study
 
 ## What I Learned
-• Data wrangling in R
-• EDA
-• Business storytelling
+- Data wrangling in R
+- EDA
+- Business storytelling
 
 ## Author
 Anusha Nagula
