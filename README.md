@@ -55,7 +55,7 @@ https://www.kaggle.com/code/anushanagula/bellabeat-case-study
 - Business storytelling
 
 ## Why This Project Matters
-This project shows the ability to:
+This project shows my ability to:
 - Work with messy real-world data
 - Translate analysis into business value
 - Build reproducible pipelines locally (not just notebooks)
